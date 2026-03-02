@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UbiquitousEngine.Api", "src\UbiquitousEngine.Api\UbiquitousEngine.Api.csproj", "{8F2D5F8C-3A1B-4E9C-9B5A-6F2E8D4C1B7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UbiquitousEngine.Tests", "tests\UbiquitousEngine.Tests\UbiquitousEngine.Tests.csproj", "{7B4E9F2D-5C8A-4B3E-8D7A-9C1F6E5B2A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2D5F8C-3A1B-4E9C-9B5A-6F2E8D4C1B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2D5F8C-3A1B-4E9C-9B5A-6F2E8D4C1B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2D5F8C-3A1B-4E9C-9B5A-6F2E8D4C1B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2D5F8C-3A1B-4E9C-9B5A-6F2E8D4C1B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4E9F2D-5C8A-4B3E-8D7A-9C1F6E5B2A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4E9F2D-5C8A-4B3E-8D7A-9C1F6E5B2A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4E9F2D-5C8A-4B3E-8D7A-9C1F6E5B2A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4E9F2D-5C8A-4B3E-8D7A-9C1F6E5B2A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
